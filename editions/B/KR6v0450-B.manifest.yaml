@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0450/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0450/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大華嚴一乘法界圖註并序
+  identifiers:
+    krp: KR6v0450
+    cbeta: B32n0189
+    cbeta_old_id: B32n0189
+    authorityid: CA0006275
+    json_key: B0189
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0189.xml
+    old_id: B32n0189
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0450_000-B.yaml, hash: 'sha256:6930068ad5aed4632e76f86fcdeccd2f77dbbc1afd6bd047b6031c7582844391'}
+  - {seq: 1, filename: KR6v0450_001-B.yaml, hash: 'sha256:70b5b5d5923b3305344c77fbb4e21d66d3fb8bcdbd809e39afe2f674ded57dec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0450_000-B.markers.yaml, hash: 'sha256:da30a11df1b0e5a6469613e5b319d092db6ee70811e2ddb93ba3612e0533dbc0'}
+  - {seq: 1, role: markers, filename: assets/KR6v0450_001-B.markers.yaml, hash: 'sha256:faddc5332a41ba5e9bbabb578169311c1d0bf85b501d7b0b4ff899d2a901a58b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0450_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 4380
+  label: 大華嚴一乘法界圖
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0450_B_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0450_B_001-mulu-2
+    span:
+    - body
+    - 980
+    - 980
+  label: 註
+  type: mulu
+  level: 1
+hash: sha256:9657046ccdbf836229a26e37c61b0a1c1656238df7de2e9916b07d2be26351f8

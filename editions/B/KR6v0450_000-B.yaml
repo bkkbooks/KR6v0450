@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0450/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大華嚴一乘法界圖註并序
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0189.xml
+    old_id: B32n0189
+hash: sha256:6930068ad5aed4632e76f86fcdeccd2f77dbbc1afd6bd047b6031c7582844391
