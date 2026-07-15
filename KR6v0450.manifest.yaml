@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0450/v1
 canonical_location: https://kanripo.org/bkk/KR6v0450/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大華嚴一乘法界圖註并序
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6v0450_000.yaml, hash: 'sha256:6930068ad5aed4632e76f86fcdeccd2f77dbbc1afd6bd047b6031c7582844391'}
-  - {seq: 1, filename: KR6v0450_001.yaml, hash: 'sha256:70b5b5d5923b3305344c77fbb4e21d66d3fb8bcdbd809e39afe2f674ded57dec'}
+  - {seq: 1, filename: KR6v0450_001.yaml, hash: 'sha256:9ada14244c489dab55a389604f2dd8999b28289be8f95db3259d4df97b81ce58'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0450_000.markers.yaml, hash: 'sha256:8e1055885ad022d2549dac0ebed890865291ba84ce1d966926e4f1cd998f9e61'}
-  - {seq: 1, role: markers, filename: assets/KR6v0450_001.markers.yaml, hash: 'sha256:01d40ff96c5b1c75ba6cbad5e0eb036c0a1c68d0c8cf251911f97affd6260b6d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0450_001.markers.yaml, hash: 'sha256:917ac2bf05d1e3d9d16184e1661ce45ed0f38ef22fa1af51ef7860a5b295a865'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,6 +49,9 @@ table_of_contents:
   label: 註
   type: mulu
   level: 1
-hash: sha256:c8399551f1fbf6abe0706456c4bea50ff3a58217a84ffcaf6fb29927448e18d7
+hash: sha256:e0515b14d66b77970b1628c80c54c170c96f885112b6a77e712441db9df1dcb2
 editions:
 - short: B
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
